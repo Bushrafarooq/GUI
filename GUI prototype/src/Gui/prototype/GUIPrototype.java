@@ -16,7 +16,7 @@ public class GUIPrototype {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Form1 f=new Form1();
+        Form5 f=new Form5();
         f.setVisible(true);
     }
     
